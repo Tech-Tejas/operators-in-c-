@@ -10,6 +10,6 @@ int main() {
     a /= 4; // a = a / 4
     printf("After a /= 4: %d\n", a);
     a %= 2; // a = a % 2
-    printf("After a %%= 2: %d\n", a);
+    printf("After a %= 2: %d\n", a);
     return 0;
 }
